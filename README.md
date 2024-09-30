@@ -69,6 +69,8 @@ Follow these steps to set up the project and replicate the analysis:
    ```bash
    git clone https://github.com/hemilshah99316/Walmart_Sales_Data_Analysis_With_SQL.git
    ```
+   OR
+   Download ZIP File
 
 2. **SQL Server Setup**:
    - Import the Excel file into Microsoft SQL Server.
