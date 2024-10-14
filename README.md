@@ -1,5 +1,5 @@
 
-# 🛒✨ Walmart Sales Data Analysis Using SQL
+# 🛒✨ Walmart Sales Data Analysis Using SQ
 
 Welcome to the **Walmart Sales Data Analysis** project, where we explore and gain insights from Walmart's sales data using **Microsoft SQL Server**. The dataset is an Excel file that captures various transactional details, including customer behavior, product performance, and more.
 
